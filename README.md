@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Deep+Lock;Solving+real+problems+with+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Deeploq;Solving+real+problems+with+AI" />
 </p>
 
 ---
@@ -18,11 +18,11 @@
 
 I'm Sathvik V, an aspiring **AI/ML Engineer**, graduating soon in the field of AI, ML, and Data Science.
 
-I enjoy working at the intersection of **mathematics, systems, and real-world problem solving** — not just building models, but building systems that actually get used.
+I enjoy working at the intersection of **mathematics, systems, and real-world problem solving**  not just building models, but building systems that actually get used.
 
 Currently, I’m building:
 
-👉 **Deep Lock** — an AI-powered productivity app designed to help people focus better and work smarter.
+👉 **deeploq** — an AI-powered productivity app designed to help people focus better and work smarter.
 
 ---
 
@@ -91,7 +91,7 @@ Currently, I’m building:
 
 ### 🚧 Featured Project
 
-#### Deep Lock
+#### deeploq
 AI-powered productivity system designed to help users focus better and eliminate distractions.
 
 > More high-impact projects coming soon.
